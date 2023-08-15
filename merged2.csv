@@ -1,0 +1,100 @@
+"","Var1","Freq","English.Short.Name","French","Alpha.2.Code","Alpha.3.Code","M49.Code","AOR","HalderList","needed.","APSCO","APRSAF"
+"1","AGO",1,"Angola","Angola (l')","AO","AGO",24,"",NA,"","",""
+"2","ALG",6,"Albania","Albanie (l')","AL","ALB",8,"",NA,"","",""
+"3","ARGN",25,"Argentina","Argentine (l')","AR","ARG",32,"",NA,"","","y"
+"4","ASRA",3,"Austria","Autriche (l')","AT","AUT",40,"",NA,"","",""
+"5","AUS",23,"Australia","Australie (l')","AU","AUS",36,"Y",1,"AUS","","y"
+"6","AZER",3,"Azerbaijan","Azerbaïdjan (l')","AZ","AZE",31,"",NA,"","",""
+"7","BEL",4,"Belgium","Belgique (la)","BE","BEL",56,"",NA,"","",""
+"8","BELA",2,"Belarus","Bélarus (le)","BY","BLR",112,"",NA,"","",""
+"9","BERM",1,"Bermuda","Bermudes (les)","BM","BMU",60,"",NA,"","",""
+"10","BGD",1,"Bangladesh","Bangladesh (le)","BD","BGD",50,"Y",1,"BGD","y","y"
+"11","BGR",1,"Bulgaria","Bulgarie (la)","BG","BGR",100,"",NA,"","",""
+"12","BOL",1,"Bolivia (Plurinational State of)","Bolivie (État plurinational de)","BO","BOL",68,"",NA,"","",""
+"13","BRAZ",17,"Brazil","Brésil (le)","BR","BRA",76,"",NA,"","",""
+"14","CA",61,"Canada","Canada (le)","CA","CAN",124,"",NA,"","","y"
+"15","CHLE",3,"Chile","Chili (le)","CL","CHL",152,"",NA,"","","y"
+"16","CIS",7046,"Russian Federation (the)","Russie (la Fédération de)","RU","RUS",643,"",NA,"","","y"
+"17","COL",2,"Colombia","Colombie (la)","CO","COL",170,"",NA,"","","y"
+"18","DEN",10,"Denmark","Danemark (le)","DK","DNK",208,"",NA,"","",""
+"19","ECU",2,"Ecuador","Équateur (l')","EC","ECU",218,"",NA,"","",""
+"20","EGYP",9,"Egypt","Égypte (l')","EG","EGY",818,"",NA,"","",""
+"21","EST",1,"Estonia","Estonie (l')","EE","EST",233,"",NA,"","","y"
+"22","FIN",7,"Finland","Finlande (la)","FI","FIN",246,"",NA,"","","y"
+"23","FR",561,"France","France (la)","FR","FRA",250,"",NA,"","","y"
+"24","GER",59,"Germany","Allemagne (l')","DE","DEU",276,"",NA,"","","y"
+"25","GREC",3,"Greece","Grèce (la)","GR","GRC",300,"",NA,"","",""
+"26","HUN",2,"Hungary","Hongrie (la)","HU","HUN",348,"",NA,"","","y"
+"27","IND",220,"India","Inde (l')","IN","IND",356,"Y",1,"IND","","y"
+"28","INDO",18,"Indonesia","Indonésie (l')","ID","IDN",360,"Y",1,"IDN","","y"
+"29","IRAN",3,"Iran (Islamic Republic of)","Iran (République Islamique d')","IR","IRN",364,"Y",1,"IRN","y","y"
+"30","IRAQ",1,"Iraq","Iraq (l')","IQ","IRQ",368,"",NA,"","","y"
+"31","ISRA",13,"Israel","Israël","IL","ISR",376,"",NA,"","","y"
+"32","IT",29,"Italy","Italie (l')","IT","ITA",380,"",NA,"","","y"
+"33","JOR",1,"Jordan","Jordanie (la)","JO","JOR",400,"",NA,"","",""
+"34","JPN",321,"Japan","Japon (le)","JP","JPN",392,"Y",1,"JPN","",""
+"35","KAZ",8,"Kazakhstan","Kazakhstan (le)","KZ","KAZ",398,"",NA,"","","y"
+"36","KEN",1,"Kenya","Kenya (le)","KE","KEN",404,"",NA,"","","y"
+"37","LAOS",1,"Lao People's Democratic Republic (the)","Lao (la République démocratique populaire)","LA","LAO",418,"Y",NA,"LAO","","y"
+"38","LKA",1,"Sri Lanka","Sri Lanka","LK","LKA",144,"Y",1,"LKA","","y"
+"39","LTU",3,"Lithuania","Lituanie (la)","LT","LTU",440,"",NA,"","",""
+"40","LUXE",1,"Luxembourg","Luxembourg (le)","LU","LUX",442,"",NA,"","",""
+"41","MA",2,"Morocco","Maroc (le)","MA","MAR",504,"",NA,"","",""
+"42","MALA",7,"Malaysia","Malaisie (la)","MY","MYS",458,"Y",1,"MYS","","y"
+"43","MEX",10,"Mexico","Mexique (le)","MX","MEX",484,"",NA,"","",""
+"44","NETH",8,"Netherlands (the)","Pays-Bas (les)","NL","NLD",528,"",NA,"","","y"
+"45","NIG",5,"Nigeria","Nigéria (le)","NG","NGA",566,"",NA,"","",""
+"46","NKOR",5,"Korea (the Democratic People's Republic of) – North","Corée (la République populaire démocratique de)","KP","PRK",408,"Y",1,"PRK","",""
+"47","NOR",11,"Norway","Norvège (la)","NO","NOR",578,"",NA,"","","y"
+"48","NPL",1,"Nepal","Népal (le)","NP","NPL",524,"Y",1,"NPL","","y"
+"49","PAKI",6,"Pakistan","Pakistan (le)","PK","PAK",586,"Y",1,"PAK","","y"
+"50","PER",2,"Peru","Pérou (le)","PE","PER",604,"",NA,"","y",""
+"51","POL",5,"Poland","Pologne (la)","PL","POL",616,"",NA,"","",""
+"52","POR",1,"Portugal","Portugal (le)","PT","PRT",620,"",NA,"","",""
+"53","PRC",4197,"China","Chine (la)","CN","CHN",156,"Y",1,"CHN","y","y"
+"54","QAT",2,"Qatar","Qatar (le)","QA","QAT",634,"",NA,"","",""
+"55","ROC",16,"Taiwan (Province of China)","Taïwan (Province de Chine)","TW","TWN",158,"",1,"TWN","","y"
+"56","RP",2,"Philippines (the)","Philippines (les)","PH","PHL",608,"Y",1,"PHL","","y"
+"57","RWA",1,"Rwanda","Rwanda (le)","RW","RWA",646,"",NA,"","",""
+"58","SAFR",5,"South Africa","Afrique du Sud (l')","ZA","ZAF",710,"",NA,"","","y"
+"59","SAUD",15,"Saudi Arabia","Arabie saoudite (l')","SA","SAU",682,"",NA,"","",""
+"60","SDN",1,"Sudan (the)","Soudan (le)","SD","SDN",729,"",NA,"","",""
+"61","SING",11,"Singapore","Singapour","SG","SGP",702,"Y",1,"SGP","","y"
+"62","SKOR",26,"Korea (the Republic of)","Corée (la République de)","KR","KOR",410,"Y",1,"KOR","","y"
+"63","SPN",28,"Spain","Espagne (l')","ES","ESP",724,"",NA,"","","y"
+"64","SVN",1,"Slovenia","Slovénie (la)","SI","SVN",705,"",NA,"","",""
+"65","SWED",11,"Sweden","Suède (la)","SE","SWE",752,"",NA,"","","y"
+"66","SWTZ",4,"Switzerland","Suisse (la)","CH","CHE",756,"",NA,"","",""
+"67","THAI",10,"Thailand","Thaïlande (la)","TH","THA",764,"Y",1,"THA","y","y"
+"68","TMMC",1,"Turkmenistan","Turkménistan (le)","TM","TKM",795,"",NA,"","",""
+"69","TURK",12,"Turkey","Turquie (la)","TR","TUR",792,"",NA,"","y","y"
+"70","UAE",10,"United Arab Emirates (the)","Émirats arabes unis (les)","AE","ARE",784,"",NA,"","","y"
+"71","UK",125,"United Kingdom of Great Britain and Northern Ireland (the)","Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)","GB","GBR",826,"",NA,"","","y"
+"72","UKR",6,"Ukraine","Ukraine (l')","UA","UKR",804,"",NA,"","","y"
+"73","URY",1,"Uruguay","Uruguay (l')","UY","URY",858,"",NA,"","",""
+"74","US",6927,"United States of America (the)","États-Unis d'Amérique (les)","US","USA",840,"",NA,"","","y"
+"75","VTNM",3,"Viet Nam","Viet Nam (le)","VN","VNM",704,"Y",1,"VNM","","y"
+"76","AB",14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","AC",8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","FGER",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","CHBZ",53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","NATO",8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","FRIT",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","NICO",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","CZCH",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","ORB",68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","TBD",110,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","IM",18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","ESA",131,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88","ISS",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89","EUME",17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90","EUTE",56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91","RASC",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","GLOB",85,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","ITSO",92,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","SES",60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95","O3B",20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96","SEAL",34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97","STCT",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98","VENZ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99","USBZ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
